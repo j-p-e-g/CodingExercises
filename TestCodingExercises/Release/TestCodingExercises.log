@@ -1,0 +1,22 @@
+﻿Build started 04.07.2016 14:05:34.
+     1>Project "C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\TestCodingExercises\TestCodingExercises.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Release\TestCodingExercises.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /FC /errorReport:prompt ChallengesTest.cpp
+         ChallengesTest.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.lib" /MACHINE:X86 /SAFESEH /DLL Release\ChallengesTest.obj
+         Release\stdafx.obj
+         Release\ExercisesTest.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+            Creating library C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.lib and object C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.exp
+         Generating code
+         2 of 780 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+           2 functions were new in current compilation
+           10 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         TestCodingExercises.vcxproj -> C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\Release\TestCodingExercises.dll
+     1>Done Building Project "C:\Users\jploog\Documents\Visual Studio 2015\Projects\CodingExercises\TestCodingExercises\TestCodingExercises.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
